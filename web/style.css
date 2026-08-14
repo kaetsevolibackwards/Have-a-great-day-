@@ -1,0 +1,4 @@
+body { font-family: system-ui, sans-serif; margin: 1rem; }
+header { display:flex; justify-content:space-between; align-items:center }
+#message { background:#f6f8fa; padding:1rem; border-radius:6px }
+button { margin-top: 0.5rem }

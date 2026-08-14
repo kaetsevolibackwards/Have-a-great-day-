@@ -1,0 +1,2 @@
+# Requirements for Stuff
+# No external dependencies required; uses Python standard library.
